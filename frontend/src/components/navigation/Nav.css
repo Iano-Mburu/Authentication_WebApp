@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 22px;
+    font-family: lato;
+    text-decoration: none;
+    font-weight: 600;
+    color: #000000;
+    text-indent: 20px;
+    padding: 15px 0;
+}
+
+.nav-logout {
+    font-size: 16px;
+    font-family: lato;
+    text-decoration: none;
+    padding: 0 30px;
+    color: #000000;
+}

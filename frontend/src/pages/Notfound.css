@@ -1,0 +1,17 @@
+/* General styling for the container */
+.not__found {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 20px;
+}
+
+/* Styling for the title */
+.not__found h1 {
+    font-size: 2.5em;
+    color: #dc3545; /* Bootstrap's danger red color */
+    margin: 0;
+}
