@@ -4,9 +4,12 @@
   "private": true,
 <<<<<<< HEAD
   "proxy": "https://finmate.onrender.com",
+<<<<<<< HEAD
   "type": "module",
 =======
 >>>>>>> 1c5d3f1 (First commit)
+=======
+>>>>>>> 57395b1 (6thcommit)
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.6",
     "@testing-library/jest-dom": "^5.17.0",
@@ -46,5 +49,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
   }
 }
